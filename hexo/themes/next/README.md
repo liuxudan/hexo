@@ -216,6 +216,7 @@ First things first, always keep things simple.
 [![jquery-image]][jquery-url]
 [![velocity-image]][velocity-url]
 
+
 [hexo-image]: http://img.shields.io/badge/Hexo-2.4+-2BAF2B.svg?style=flat-square
 [hexo-url]: http://hexo.io
 [bower-image]: http://img.shields.io/badge/Bower-*-2BAF2B.svg?style=flat-square
